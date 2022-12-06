@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Katherine!
 - 🌱 I’m currently a third-year undergraduate student at University of Sydney.
 - 👀 I’m interested in machine learning, neural network, and their applications to genomic data.
-- 💕 Hobbies: photography, cooking, musical
+- 💕 Hobbies: photography, travel, cooking, musical
 - 📫 zhangxinran0909@gmail.com
 
 
