@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Katherine!
-- 🌱 I’m currently a first-year master student at Yale University.
-- 👀 I’m interested in machine learning, neural network, and their applications to genomic data.
-- 💕 Hobbies: photography, travel, baking, musical
+- 👋 Hi there, I’m Katherine!
+- 🌱 I’m currently a second-year master student in Statistics & Data Science at Yale University.
 - 📫 zhangxinran0909@gmail.com
 
 
